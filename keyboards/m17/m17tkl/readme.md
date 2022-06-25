@@ -1,6 +1,6 @@
 # m17/m17tkl/beta
 
-![m17/m17tkl/beta](imgur.com image replace me!)
+![m17/m17tkl](https://imgur.com/a/0QFiWqu)
 
 *A short description of the keyboard/project*
 
@@ -10,11 +10,11 @@
 
 Make example for this keyboard (after setting up your build environment):
 
-    make m17/m17tkl/beta:default
+    make m17/m17tkl:default
 
 Flashing example for this keyboard:
 
-    make m17/m17tkl/beta:default:flash
+    make m17/m17tkl:default:flash
 
 See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
 
